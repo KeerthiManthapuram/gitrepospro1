@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.filter-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.filter-btn {
+  height: 30px;
+  min-width: 30px;
+  border-radius: 6px;
+  border: none;
+  margin: 10px;
+  background-color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.highlight {
+  border: #0284c7 2px solid;
+  color: #0284c7;
+}
